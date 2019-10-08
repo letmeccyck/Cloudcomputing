@@ -4,6 +4,5 @@
 
 ##### 实验一：云计算开发基础
 
-[basic文件夹]: https://github.com/letmeccyck/Cloudcomputing/tree/master/basic
+basic文件夹：https://github.com/letmeccyck/Cloudcomputing/tree/master/basic
 
- 
