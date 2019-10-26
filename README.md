@@ -6,3 +6,5 @@
 
 basic文件夹：https://github.com/letmeccyck/Cloudcomputing/tree/master/basic
 
+wordpress文件夹：https://github.com/letmeccyck/Cloudcomputing/tree/master/wordpress
+
